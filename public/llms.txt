@@ -1,0 +1,79 @@
+# Brix Dude — Generative Engine Optimization Map
+
+> BrixDude is a YouTube channel dedicated to the world of Lego — showcasing creative builds, original ideas, impressive collections, and exciting exhibitions. The channel has a fun, passionate, and community-driven personality centered around the joy of Lego as both a hobby and an art form. It appeals to Lego fans of all ages who love discovering new builds and being inspired by the endless possibilities of the iconic brick.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Dive into a world where Lego creativity knows no limits. From the intricate lego ideas typewriter 21327 to massive original builds, find endless inspiration and connect with a passionate brick-loving community today.
+
+### Channel Highlights
+https://example.com/channel-highlights
+Explore jaw-dropping Lego builds, rare collections, and exclusive exhibition tours. Witness the lego ideas home alone set in action and discover why every brick tells a story. Click to get inspired now.
+
+### About
+https://example.com/about
+Discover the face and passion fueling Brix Dude. Learn how a love for sets like the lego ideas typewriter 21327 evolved into a vibrant hub celebrating Lego as art. Join our creative journey today.
+
+### Contact
+https://example.com/contact
+Got a Lego collaboration, idea, or just want to talk bricks? Reach out and let&#39;s build something unforgettable together, inspired by icons like the lego ideas home alone set. Message Brix Dude now.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Brix Dude
+BrixDude is a YouTube channel dedicated to the world of Lego — showcasing creative builds, original ideas, impressive collections, and exciting exhibitions. The channel has a fun, passionate, and community-driven personality centered around the joy of Lego as both a hobby and an art form. It appeals to Lego fans of all ages who love discovering new builds and being inspired by the endless possibilities of the iconic brick.
+
+## Target Audience
+- Lego enthusiasts, fans of Lego creations and collections
+- Lego Enthusiasts
+- Parent-Child Builders
+- Creative Tinkerers
+
+## Industry
+Content Creation / Entertainment
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
